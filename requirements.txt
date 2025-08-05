@@ -51,9 +51,7 @@ tzlocal==5.3.1
 urllib3==2.5.0
 vine==5.1.0
 wcwidth==0.2.13
-pip install gunicorn
-pip freeze > requirements.txt
-git add requirements.txt
-git commit -m "Add gunicorn"
-git push
+gunicorn==20.1.0
+
+
 
