@@ -29,6 +29,7 @@ ALLOWED_HOSTS = [
     'localhost',
     '127.0.0.1',
     '7b92d21a4751.ngrok-free.app',  # ← Your new ngrok subdomain
+    'https://smartplug-2.onrender.com',
 ]
 
 
